@@ -9953,7 +9953,7 @@ header section {
     width: 100%; }
   /* line 94, ../scss/custom.scss */
   .section main #modal {
-    width: 250px;
+    width: 350px;
     position: absolute;
     left: 5%;
     right: 5%;
@@ -9968,7 +9968,7 @@ header section {
         width: 600px; } }
   /* line 112, ../scss/custom.scss */
   .section .all {
-    width: 250px;
+    width: 350px;
     position: absolute;
     left: 5%;
     right: 5%;
