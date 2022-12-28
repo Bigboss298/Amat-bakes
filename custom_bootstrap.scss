@@ -1,0 +1,12 @@
+//Overide default colors
+
+$theme-colors: (
+    "primary": #ff5f1f,
+    "secondary": #65463e,
+    "warning": #c9beb1
+);
+
+
+
+// import bootstrap
+@import "../bootstrap/scss/bootstrap.scss"
