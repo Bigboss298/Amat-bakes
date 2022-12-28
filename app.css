@@ -9887,7 +9887,7 @@ header #click {
   z-index: 99; }
 /* line 18, ../scss/custom.scss */
 header section {
-  background: url(../images/choco1.jpg) center center/cover no-repeat;
+  background: url(choco1.jpg) center center/cover no-repeat;
   height: 80vh; }
   /* line 22, ../scss/custom.scss */
   header section #between {
