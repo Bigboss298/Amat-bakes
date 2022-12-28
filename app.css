@@ -9897,6 +9897,11 @@ header section {
     left: 0;
     right: 0;
     background: rgba(92, 48, 16, 0.425); }
+    @media (min-width: 768px) {
+      header section #between {
+        height: 50vh;
+      }
+    }
   /* line 31, ../scss/custom.scss */
   header section .order {
     width: 10em;
